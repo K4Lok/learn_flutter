@@ -46,7 +46,9 @@ Further setting in `settings.json`:
 
 You can find it here:
 
-By clickig the button in the middle.
+![9599D9DB-4CD5-4B9A-8C10-B85F3157DEE2_4_5005_c](https://user-images.githubusercontent.com/82365010/151960775-7b99a209-de2a-433d-814b-7325e5e35eb4.jpeg)
+
+Clicking the second button.
 
 ```json
 "[dart]": {
