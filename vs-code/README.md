@@ -40,7 +40,7 @@ You can set your own auto indent perferences.
 
 In VSCode: 
 > <pre>Preferences -> Settings -> Text Editor -> Formatting</pre>
-> - [ ] checkbox: **Format On Save**
+> - [ ] **Format On Save**
 
 Further setting in `settings.json`:
 
@@ -65,5 +65,21 @@ Clicking the second button.
         "editor.wordBasedSuggestions": false
     },
 ```
+
+---
+
+# Preview: Flutter UI Guides
+If you want to have a better code readibility like this:
+
+<img src="https://user-images.githubusercontent.com/82365010/152128956-d19e2863-823d-4f9a-8a3d-0183f08fa804.png" width="600">
+
+You can try the settings below.
+
+### Settings
+In VSCode: 
+> <pre>Settings -> Search : dart preview</pre>
+> - [ ] Dart: **Preview Flutter Ui Guides Custom Tracking**
+> - [ ] Dart: **Preview Hot Reload On Save Watcher**
+
 
 ---
