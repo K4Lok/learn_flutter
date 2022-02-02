@@ -73,7 +73,7 @@ If you want to have a better code readibility like this:
 
 <img src="https://user-images.githubusercontent.com/82365010/152128956-d19e2863-823d-4f9a-8a3d-0183f08fa804.png" width="600">
 
-You can try the settings below.
+You can try the settings below. 
 
 ### Settings
 In VSCode: 
@@ -81,5 +81,6 @@ In VSCode:
 > - [ ] Dart: **Preview Flutter Ui Guides Custom Tracking**
 > - [ ] Dart: **Preview Hot Reload On Save Watcher**
 
+For further info: [Official Website](https://dartcode.org/releases/v3-1/#preview-flutter-ui-guides).
 
 ---
